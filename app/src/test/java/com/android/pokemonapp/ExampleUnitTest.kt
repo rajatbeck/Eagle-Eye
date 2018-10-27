@@ -1,4 +1,4 @@
-package com.android.marvelApp
+package com.android.eagleEye
 
 import org.junit.Test
 
